@@ -3,17 +3,12 @@
     "symbol": "GHIBLIPEPE",
     "description": "A magical fusion of Studio Ghibli charm and Pepe meme culture. Let's spread kawaii vibes across the Solana ecosystem!",
     "image": "https://ucarecdn.com/c76e53bb-d6b6-41c9-a212-96a64268b219/ghiblipepe.avif",
-    "extensions": {
-        "twitter": "https://x.com/GhiblipepeTKN",
-        "telegram": "https://t.me/ghiblipepeTKN"
-    },
+    "external_url": "https://ghiblipepe.pages.dev",
     "properties": {
         "category": "meme",
-        "creators": [
-            {
-                "address": "88hHWKDp3KKPbc8ogp67RodoiRSyK4ze9nCHGnFXcJkE",
-                "share": 100
-            }
-        ]
+        "socials": {
+            "twitter": "https://x.com/GhiblipepeTKN",
+            "telegram": "https://t.me/ghiblipepeTKN"
+        }
     }
 }
