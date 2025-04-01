@@ -1,0 +1,14 @@
+{
+    "name": "Grok Ghiblification",
+    "symbol": "GROKGHIFI",
+    "description": "A magical fusion of Studio Ghibli charm and Grok meme culture. Let's spread kawaii vibes across the Solana ecosystem!",
+    "image": "https://ucarecdn.com/0c0b3e80-92f2-42bd-94d4-f451247e30d4/grok.avif",
+    "extensions": {
+        "webiste": "https://grokghilification.pages.dev",
+        "twitter": "https://x.com/GrokGhibli",
+        "telegram": "https://t.me/GrokGhiblification"
+    },
+    "tag": [
+        "meme"
+    ]
+}
